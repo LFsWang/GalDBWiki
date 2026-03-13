@@ -1,0 +1,37 @@
+[
+    { "title": "首頁", "path": "Home" },
+    { "title": "新手入門", "path": "Getting-Started" },
+    {
+        "title": "編輯指南",
+        "children": [
+            { "title": "Visual Novel", "path": "editing/Visual-Novel" },
+            { "title": "Release", "path": "editing/Release" },
+            { "title": "Producer", "path": "editing/Producer" },
+            { "title": "Staff", "path": "editing/Staff" },
+            { "title": "標題系統", "path": "editing/Titles" },
+            { "title": "圖片", "path": "editing/Images" },
+            { "title": "描述格式", "path": "editing/Descriptions" },
+            { "title": "外部連結", "path": "editing/External-Links" },
+            { "title": "修訂版本", "path": "editing/Revisions" }
+        ]
+    },
+    {
+        "title": "使用指南",
+        "children": [
+            { "title": "搜尋", "path": "guide/Search" },
+            { "title": "帳號管理", "path": "guide/Account" },
+            { "title": "外觀設定", "path": "guide/Appearance" }
+        ]
+    },
+    {
+        "title": "參考表",
+        "children": [
+            { "title": "語言代碼", "path": "reference/Languages" },
+            { "title": "平台", "path": "reference/Platforms" },
+            { "title": "VN 關聯類型", "path": "reference/VN-Relations" },
+            { "title": "Release 關聯", "path": "reference/Release-Relations" },
+            { "title": "Staff 職位", "path": "reference/Staff-Roles" },
+            { "title": "商店與媒體", "path": "reference/Store-Sites" }
+        ]
+    }
+]
