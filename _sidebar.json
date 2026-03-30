@@ -10,6 +10,7 @@
             { "title": "Staff", "path": "editing/Staff" },
             { "title": "標題系統", "path": "editing/Titles" },
             { "title": "圖片", "path": "editing/Images" },
+            { "title": "圖片分級規則", "path": "editing/ImageFlagging" },
             { "title": "描述格式", "path": "editing/Descriptions" },
             { "title": "外部連結", "path": "editing/External-Links" },
             { "title": "修訂版本", "path": "editing/Revisions" }
