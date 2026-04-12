@@ -19,6 +19,7 @@
 - [搜尋](guide/Search.md)
 - [帳號管理](guide/Account.md)
 - [外觀設定](guide/Appearance.md)
+- [評分系統](guide/Ratings.md)
 
 ## 參考表
 

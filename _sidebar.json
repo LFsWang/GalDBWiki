@@ -21,7 +21,8 @@
         "children": [
             { "title": "搜尋", "path": "guide/Search" },
             { "title": "帳號管理", "path": "guide/Account" },
-            { "title": "外觀設定", "path": "guide/Appearance" }
+            { "title": "外觀設定", "path": "guide/Appearance" },
+            { "title": "評分系統", "path": "guide/Ratings" }
         ]
     },
     {
