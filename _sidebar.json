@@ -8,6 +8,7 @@
             { "title": "Release", "path": "editing/Release" },
             { "title": "Producer", "path": "editing/Producer" },
             { "title": "Staff", "path": "editing/Staff" },
+            { "title": "Song", "path": "editing/Song" },
             { "title": "標題系統", "path": "editing/Titles" },
             { "title": "圖片", "path": "editing/Images" },
             { "title": "圖片分級規則", "path": "editing/ImageFlagging" },
